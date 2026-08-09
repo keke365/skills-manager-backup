@@ -1,0 +1,12 @@
+# Local agent and generated evaluation state
+AGENTS.md
+.claude/
+tests/runs/
+assets/social-preview.png
+
+# Local secrets and OS metadata
+.env
+.env.*
+*.key
+*.pem
+.DS_Store

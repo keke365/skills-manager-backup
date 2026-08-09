@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "98827529-bbad-4192-874d-e5665f6db5b6",
+  "path": "chinese-documentation",
+  "path_key": "chinese-documentation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "jnmetacode/superpowers-zh/chinese-documentation",
+    "subpath": "skills/chinese-documentation",
+    "branch": null
+  }
+}

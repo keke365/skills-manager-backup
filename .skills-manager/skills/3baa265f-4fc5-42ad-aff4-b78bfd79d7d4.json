@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3baa265f-4fc5-42ad-aff4-b78bfd79d7d4",
+  "path": "qu-ai-wei",
+  "path_key": "qu-ai-wei",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "lifelonglazylearner/qu-ai-wei/qu-ai-wei",
+    "subpath": null,
+    "branch": null
+  }
+}

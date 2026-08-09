@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dc5e57f0-ee41-4a8e-99b0-6c805dbf888e",
+  "path": "agent-eval",
+  "path_key": "agent-eval",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "colbymchenry/codegraph/agent-eval",
+    "subpath": ".claude/skills/agent-eval",
+    "branch": null
+  }
+}
